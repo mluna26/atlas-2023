@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Club The Strongest",
+	"description": "El \"Tigre\" es una institución deportiva con sede en la ciudad de La Paz, Bolivia, cuya actividad principal es el fútbol profesional. Fue fundado el 8 de abril de 1908 por doce jóvenes estudiantes, liderados por José Villamil. Actualmente participa en la Primera División de Bolivia",
+	"links": {
+		"website": [
+			"https://www.instagram.com/clubstrongest/"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				183,
+				745
+			],
+			[
+				186,
+				744
+			],
+			[
+				189,
+				744
+			],
+			[
+				192,
+				746
+			],
+			[
+				190,
+				750
+			],
+			[
+				187,
+				752
+			],
+			[
+				184,
+				750
+			],
+			[
+				183,
+				745
+			]
+		]
+	},
+	"center": {
+		"254": [
+			187,
+			747
+		]
+	}
+}
