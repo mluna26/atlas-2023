@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Delfin Rosado",
+	"description": "El Bufeo boliviano, también llamado “Delfín de río” o “Delfín rosado”, es un animal acuático que vive en los ríos de la Amazonia boliviana. El bufeo habita las cuencas y subcuencas de los ríos: Madera, Mamoré, Iténez y Abuná, ubicados en los departamentos de: Cochabamba, Beni, Santa Cruz, Pando y el norte de La Paz.\n",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				234,
+				-31
+			],
+			[
+				238,
+				-27
+			],
+			[
+				242,
+				-36
+			],
+			[
+				236,
+				-43
+			],
+			[
+				231,
+				-40
+			],
+			[
+				227,
+				-36
+			],
+			[
+				233,
+				-36
+			],
+			[
+				239,
+				-32
+			],
+			[
+				234,
+				-31
+			]
+		]
+	},
+	"center": {
+		"254": [
+			235,
+			-39
+		]
+	}
+}
