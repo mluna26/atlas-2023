@@ -1,0 +1,56 @@
+{
+	"id": -1,
+	"name": "Monolito",
+	"description": "Los monolitos más conocidos son los de Tiwanaku (La Paz), en Bolivia, un lugar que fue famoso en su apogeo (400-1000) por atraer peregrinos de todos los Andes a pesar de su impresionante ubicación: 3.800 metros sobre el nivel del mar. Muchos de ellos de piedra volcánica están intrincadamente tallados.",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				133,
+				-26
+			],
+			[
+				120,
+				-26
+			],
+			[
+				120,
+				-30
+			],
+			[
+				123,
+				-32
+			],
+			[
+				122,
+				-38
+			],
+			[
+				121,
+				-39
+			],
+			[
+				132,
+				-39
+			],
+			[
+				131,
+				-37
+			],
+			[
+				131,
+				-31
+			],
+			[
+				133,
+				-30
+			]
+		]
+	},
+	"center": {
+		"254": [
+			127,
+			-35
+		]
+	}
+}
