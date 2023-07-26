@@ -1,0 +1,64 @@
+{
+	"id": -1,
+	"name": "Toborochi Cruseño",
+	"description": "Árbol de hasta 15 m de altura, de follaje caduco, tronco abultado en su parte media, corteza de color gris verdoso con numerosos aguijones cónicos, flores crema o rosadas, según la especie, y fruto en forma de cápsula oblonga, y con numerosas semillas recubiertas por abundantes pelos sedosos.",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				356,
+				-27
+			],
+			[
+				358,
+				-29
+			],
+			[
+				358,
+				-33
+			],
+			[
+				356,
+				-35
+			],
+			[
+				353,
+				-37
+			],
+			[
+				350,
+				-41
+			],
+			[
+				353,
+				-46
+			],
+			[
+				369,
+				-47
+			],
+			[
+				371,
+				-42
+			],
+			[
+				365,
+				-36
+			],
+			[
+				362,
+				-32
+			],
+			[
+				363,
+				-26
+			]
+		]
+	},
+	"center": {
+		"254": [
+			360,
+			-40
+		]
+	}
+}
