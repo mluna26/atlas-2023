@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Salteña",
+	"description": "Deliciosa empanada horneada hecha en Bolivia. Por lo general, se rellena con una salsa y algo de carne como carne de res, pollo, cerdo, etc.",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				270,
+				-29
+			],
+			[
+				269,
+				-27
+			],
+			[
+				280,
+				-26
+			],
+			[
+				278,
+				-38
+			],
+			[
+				275,
+				-45
+			],
+			[
+				273,
+				-45
+			],
+			[
+				269,
+				-38
+			],
+			[
+				267,
+				-33
+			],
+			[
+				269,
+				-28
+			]
+		]
+	},
+	"center": {
+		"254": [
+			273,
+			-34
+		]
+	}
+}
