@@ -1,0 +1,92 @@
+{
+	"id": -1,
+	"name": "Mi Teleférico",
+	"description": "Mi Teleférico, oficialmente Empresa Estatal de Transporte por Cable Mi Teleférico, es la empresa estatal encargada de la administración del sistema de transporte por Cable urbano Teleférico La Paz - El Alto, que une las ciudades de La Paz y El Alto, así como una línea turística en Oruro en Bolivia.",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				279,
+				-35
+			],
+			[
+				287,
+				-41
+			],
+			[
+				285,
+				-45
+			],
+			[
+				295,
+				-45
+			],
+			[
+				294,
+				-41
+			],
+			[
+				301,
+				-36
+			],
+			[
+				306,
+				-37
+			],
+			[
+				314,
+				-46
+			],
+			[
+				322,
+				-46
+			],
+			[
+				320,
+				-42
+			],
+			[
+				319,
+				-36
+			],
+			[
+				322,
+				-33
+			],
+			[
+				322,
+				-30
+			],
+			[
+				315,
+				-30
+			],
+			[
+				306,
+				-29
+			],
+			[
+				295,
+				-27
+			],
+			[
+				285,
+				-27
+			],
+			[
+				280,
+				-30
+			],
+			[
+				279,
+				-34
+			]
+		]
+	},
+	"center": {
+		"254": [
+			291,
+			-34
+		]
+	}
+}
